@@ -1,0 +1,28 @@
+dihedral_coeff   1 opls   0.000000     4.651052     0.000000     0.000000  # CT-NA-CR-NA
+dihedral_coeff   2 opls   0.000000     4.651052     0.000000     0.000000  # CW-NA-CR-NA
+dihedral_coeff   3 opls   0.000000     4.651052     0.000000     0.000000  # CT-NA-CR-HA
+dihedral_coeff   4 opls   0.000000     4.651052     0.000000     0.000000  # CW-NA-CR-HA
+dihedral_coeff   5 opls   0.000000     3.000000     0.000000     0.000000  # CR-NA-CW-CW
+dihedral_coeff   6 opls   0.000000     3.000000     0.000000     0.000000  # CT-NA-CW-CW
+dihedral_coeff   7 opls   0.000000     3.000000     0.000000     0.000000  # CR-NA-CW-HA
+dihedral_coeff   8 opls   0.000000     3.000000     0.000000     0.000000  # CT-NA-CW-HA
+dihedral_coeff   9 opls   0.000000    10.750478     0.000000     0.000000  # NA-CW-CW-HA
+dihedral_coeff  10 opls   0.000000    10.750478     0.000000     0.000000  # HA-CW-CW-HA
+dihedral_coeff  11 opls   0.000000    10.750478     0.000000     0.000000  # NA-CW-CW-NA
+dihedral_coeff  12 opls   0.000000     0.000000     0.000000     0.000000  # CR-NA-CT-HC
+dihedral_coeff  13 opls   0.000000     0.000000     0.124044     0.000000  # CW-NA-CT-HC
+dihedral_coeff  14 opls  -1.259345     0.000000     0.000000     0.000000  # CR-NA-CT-CT
+dihedral_coeff  15 opls  -1.709728     1.459465     0.189747     0.000000  # CW-NA-CT-CT
+dihedral_coeff  16 opls   0.000000     0.000000     0.087715     0.000000  # NA-CT-CT-HC
+dihedral_coeff  17 opls   0.000000     0.000000     0.300000     0.000000  # HC-CT-CT-HC
+dihedral_coeff  18 fourier 6  5.6799  1  0.0 1.4838 2 0.0 -0.5661 3 0.0 -0.0071 4 0.0 0.165 5 0 0.2429 6 0  # SB-NB-SB-CF
+dihedral_coeff  19 opls    0.000000     0.000000    -0.003585     0.000000  # OB-SB-NB-SB
+dihedral_coeff  20 fourier 1  0.4876   3   0.0  # NB-SB-CF-FB
+dihedral_coeff  21 fourier 1  0.1734   3   0.0  # OB-SB-CF-FB
+dihedral_coeff  22 opls    0.000000     2.000000     0.000000     0.000000  # CR-CW-NA-CT
+dihedral_coeff  23 opls    0.000000     2.200000     0.000000     0.000000  # NA-NA-CR-HA
+dihedral_coeff  24 opls    0.000000     2.200000     0.000000     0.000000  # NA-CW-CW-HA
+
+
+
+

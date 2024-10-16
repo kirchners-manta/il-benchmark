@@ -1,0 +1,17 @@
+# created by fftool
+tolerance 2.5
+filetype xyz
+randominitialpoint
+output simbox.xyz
+
+structure emim_pack.xyz
+  number 512
+  inside box 0 0 0 61.35 61.35 61.35
+end structure
+
+structure ntf2_pack.xyz
+  number 512
+  inside box 0 0 0 61.35 61.35 61.35
+end structure
+
+seed -1
